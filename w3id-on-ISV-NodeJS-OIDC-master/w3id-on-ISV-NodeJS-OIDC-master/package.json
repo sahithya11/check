@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-boarding",
+  "version": "1.0.0",
+  "description": "is only one example about the boarding in nodejs language",
+  "main": "conf",
+  "scripts": {
+    "test": "iniciar",
+    "start": "node hellonode.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NA"
+  },
+  "keywords": [
+    "NA"
+  ],
+  "author": "Diego Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "express-passport-logout": "^0.1.0",
+    "express-session": "^1.17.1",
+    "jquery": "^3.5.1",
+    "passport": "^0.4.1",
+    "passport-ci-oidc": "^2.0.3",
+    "path": "^0.12.7"
+  }
+}
